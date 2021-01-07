@@ -1,11 +1,11 @@
 # Detector
 This Repository consists of three methods for object detection.
 
-    1) Background subtraction using absolute difference.
+    1) Background subtraction using absolute difference (IP).
     
-    2) Background subtraction using KNN.
+    2) Background subtraction using KNN (ML).
     
-    3) Pre-trained MaskRCNN on coco dataset
+    3) Pre-trained MaskRCNN on coco dataset (DL).
 
 # Installation Steps
 `pip install -r requirements.txt`
