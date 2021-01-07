@@ -1,5 +1,5 @@
 # Detector
-This Repository consists of three methods for object detecion.
+This Repository consists of three methods for object detection.
 
     1) Background subtraction using absolute difference.
     
@@ -14,4 +14,4 @@ Download pre-trained weights from `https://github.com/matterport/Mask_RCNN/relea
 
 Run `python main.py`
 
-Select method by giving input as ML, IP, DL `input =  "ML"`
+Select method by giving input as IP, ML, DL `input =  "ML"`
